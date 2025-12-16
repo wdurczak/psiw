@@ -1,0 +1,3 @@
+/Users/wojciechdurczak/studia/psiw/psiw_6/cmake-build-debug/CMakeFiles/psiw_6.dir
+/Users/wojciechdurczak/studia/psiw/psiw_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wojciechdurczak/studia/psiw/psiw_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
